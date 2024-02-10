@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  background-image: url("./assets/love-always-wins.png");
+  background-blend-mode: screen;
+}
