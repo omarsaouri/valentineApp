@@ -1,10 +1,9 @@
 import { Route, Routes } from "react-router-dom";
-import LandingPage from "./pages/landingPage";
-import ReadyPage from "./pages/ReadyPage";
+import LandingPage from "./pages/LandingPage";
 import QuizPage from "./pages/QuizPage";
-
-import ValentinePage from "./pages/ValentinePage";
+import ReadyPage from "./pages/ReadyPage";
 import FinalPage from "./pages/FinalPage";
+import ValentinePage from "./pages/ValentinePage";
 
 function App() {
   return (
