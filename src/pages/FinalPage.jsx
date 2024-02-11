@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../assets/nihed-pic.png";
+import image from "../assets/IMG_0588.png";
 import { motion } from "framer-motion";
 import { VscDebugRestart } from "react-icons/vsc";
 import { useNavigate } from "react-router-dom";

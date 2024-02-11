@@ -44,7 +44,7 @@ function QuizPage() {
     "Your hair",
     "Your ex",
     "So much ",
-    "Giving me cuddles",
+    "Giving me hugs",
   ]);
 
   const [rightAnswerArray, _wr] = useState([
@@ -52,7 +52,7 @@ function QuizPage() {
     "Your eyes",
     "Ngirk :)",
     "Chwiya",
-    "Showing me your b***s",
+    "Cooking for me",
   ]);
 
   useEffect(() => {
